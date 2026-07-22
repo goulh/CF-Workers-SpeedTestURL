@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,CCTV-1
+http://14.205.92.91:6610/00000002/2/CCTV-1-3_6M/1000.m3u8?version=1.0&IASHttpSessionId=RR296720260722134752977665&programid=CCTV-1-3_6M&zte_bandwidth=1000&bandwidth=3844524&ispcode=27&timeformat=local&channel=CCTV-1-3_6M&userid=9087300030464&AuthInfo=aR%2Fz9KreiZzRoK4oDPbqW6NwbBnj9Nms3NigwQuNWG9hZmb7Kz3k0GABg9OLh6PothvFevKMuYAu1faEFZYApohDONV3XCLJuW8K2WmkGh8%3D&m3u8_level=2&stbid=18046380067102&virtualDomain=00000002.live_hls.zte.com&ztecid=CCTV-1-3_6M
+#EXTINF:-1,东方卫视HD
+http://14.205.92.91:6610/00000002/2/DFWS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR282820260722121119965897&programid=DFWS-HD&zte_bandwidth=1000&bandwidth=12371001&ispcode=27&timeformat=local&channel=DFWS-HD&userid=9087300030464&AuthInfo=7iyFcwSJhcAF5HitHAYVduUp8xwMpbbboOV3OrQR%2BboAuq%2BgcvcW0xSVdWtF%2BpkHjav9UjfzEXhIh2UV2m2cmAMZNXILLA4HlniJbOWSE88%3D&m3u8_level=2&stbid=18046380067102&virtualDomain=00000002.live_hls.zte.com&ztecid=DFWS-HD
